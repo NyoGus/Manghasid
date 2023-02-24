@@ -96,7 +96,7 @@ body{
 
 /* Home page */
 #hero{
-    background-image: url("img/Background\ 1200ppi.png");
+    background-image: url("img/background_kecil.png");
     height: 90vh;
     width: 100%;
     background-size: cover;
